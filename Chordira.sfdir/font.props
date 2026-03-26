@@ -1,0 +1,63 @@
+SplineFontDB: 3.2
+FontName: Chordira
+FullName: Chordira
+FamilyName: Chordira
+Weight: Regular
+Copyright: Copyright (c) 2026, Aoi
+UComments: "2026-3-24: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 927 -353604877 32337]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1774335734
+ModificationTime: 1774533469
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+Lookup: 4 0 0 "roman root" { "roman root-1"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "chord spec" { "chord spec-3letters"  "chord spec-2letters"  "chord spec-1letter"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "root letter" { "root letter-1"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "accidentals before digits" { "accidentals before digits-1"  } ['rclt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "single substitution high accidentals" { "Single Substitution 1-1"  } []
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ChainSub2: coverage "accidentals before digits-1" 0 0 0 1
+ 1 0 1
+  Coverage: 36 rootflat rootnatural rootsharp minus
+  FCoverage: 79 zerosup onesup twosup threesup foursup fivesup sixsup sevensup eightsup ninesup
+ 1
+  SeqLookup: 0 "single substitution high accidentals"
+EndFPST
+Encoding: x-user-defined
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 32 8
+BeginPrivate: 0
+EndPrivate
+EndSplineFont
