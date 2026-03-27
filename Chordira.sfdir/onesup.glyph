@@ -1,0 +1,19 @@
+StartChar: onesup
+Encoding: 145 63377 106
+Width: 423
+VWidth: 1174
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+323 174 m 1,0,-1
+ 231 174 l 1,1,-1
+ 231 640 l 1,2,-1
+ 75 545 l 1,3,-1
+ 35 610 l 1,4,-1
+ 242 738 l 1,5,-1
+ 323 738 l 1,6,-1
+ 323 174 l 1,0,-1
+EndSplineSet
+Ligature2: "chord spec-1letter" one
+EndChar

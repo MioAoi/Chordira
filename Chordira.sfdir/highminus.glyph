@@ -1,0 +1,17 @@
+StartChar: highminus
+Encoding: 175 63407 155
+Width: 506
+VWidth: 1174
+Flags: W
+HStem: 174 66 818 66
+VStem: 1 66 645 66
+LayerCount: 2
+Fore
+SplineSet
+505 519 m 1,0,-1
+ 505 442 l 1,1,-1
+ 1 442 l 1,2,-1
+ 1 519 l 1,3,-1
+ 505 519 l 1,0,-1
+EndSplineSet
+EndChar

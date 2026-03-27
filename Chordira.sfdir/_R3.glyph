@@ -1,0 +1,25 @@
+StartChar: R3
+Encoding: 162 63394 105
+Width: 750
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+703 693 m 5,0,-1
+ 703 0 l 5,1,-1
+ 546 0 l 5,2,-1
+ 546 693 l 5,3,-1
+ 703 693 l 5,0,-1
+453 693 m 1,4,-1
+ 453 0 l 1,5,-1
+ 296 0 l 1,6,-1
+ 296 693 l 1,7,-1
+ 453 693 l 1,4,-1
+203 693 m 1,8,-1
+ 203 0 l 1,9,-1
+ 46 0 l 1,10,-1
+ 46 693 l 1,11,-1
+ 203 693 l 1,8,-1
+EndSplineSet
+Ligature2: "roman root-1" R three
+EndChar

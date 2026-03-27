@@ -1,0 +1,12 @@
+StartChar: omit
+Encoding: 177 63409 159
+Width: 1728
+LayerCount: 2
+Fore
+Refer: 157 63470 N 1 0 0 1 1422 0 2
+Refer: 140 63463 N 1 0 0 1 1188 0 2
+Refer: 135 63458 N 1 0 0 1 485 0 2
+Refer: 156 63469 N 1 0 0 1 0 0 2
+Ligature2: "chord spec-3letters" o m i t
+Decomposition: "+9+334vfn9+4A"
+EndChar

@@ -1,0 +1,21 @@
+StartChar: rootF
+Encoding: 133 63365 100
+Width: 531
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+498 576 m 1,0,-1
+ 269 576 l 1,1,-1
+ 243 392 l 1,2,-1
+ 443 392 l 1,3,-1
+ 427 275 l 1,4,-1
+ 227 275 l 1,5,-1
+ 188 0 l 1,6,-1
+ 27 0 l 1,7,-1
+ 124 693 l 1,8,-1
+ 531 693 l 1,9,-1
+ 498 576 l 1,0,-1
+EndSplineSet
+Ligature2: "root letter-1" F
+EndChar

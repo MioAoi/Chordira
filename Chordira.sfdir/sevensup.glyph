@@ -1,0 +1,19 @@
+StartChar: sevensup
+Encoding: 151 63383 113
+Width: 449
+VWidth: 1174
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+414 669 m 1,0,-1
+ 169 55 l 1,1,-1
+ 85 83 l 1,2,-1
+ 321 663 l 1,3,-1
+ 15 663 l 1,4,-1
+ 15 738 l 1,5,-1
+ 414 738 l 1,6,-1
+ 414 669 l 1,0,-1
+EndSplineSet
+Ligature2: "chord spec-1letter" seven
+EndChar

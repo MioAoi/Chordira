@@ -1,0 +1,18 @@
+StartChar: minus
+Encoding: 141 63373 121
+Width: 506
+Flags: W
+HStem: 0 66 644 66
+VStem: 1 66 645 66
+LayerCount: 2
+Fore
+SplineSet
+505 345 m 1,0,-1
+ 505 268 l 1,1,-1
+ 1 268 l 1,2,-1
+ 1 345 l 1,3,-1
+ 505 345 l 1,0,-1
+EndSplineSet
+Substitution2: "Single Substitution 1-1" highminus
+Ligature2: "chord spec-1letter" hyphen
+EndChar

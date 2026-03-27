@@ -1,0 +1,20 @@
+StartChar: Delta
+Encoding: 136 63368 116
+Width: 583
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+577 0 m 5,0,-1
+ 6 0 l 5,1,-1
+ 232 689 l 5,2,-1
+ 352 689 l 5,3,-1
+ 577 0 l 5,0,-1
+125 78 m 5,4,-1
+ 454 78 l 5,5,-1
+ 290 609 l 5,6,-1
+ 125 78 l 5,4,-1
+EndSplineSet
+Kerns2: 113 -64 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Ligature2: "chord spec-1letter" asciicircum
+EndChar

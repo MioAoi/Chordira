@@ -1,0 +1,11 @@
+StartChar: ma
+Encoding: 142 63374 122
+Width: 1259
+Flags: W
+LayerCount: 2
+Fore
+Refer: 137 63460 N 1 0 0 1 769 0 2
+Refer: 134 63457 N 1 0 0 1 0 0 2
+Ligature2: "chord spec-2letters" m a
+Decomposition: "+9+H35AAA"
+EndChar
