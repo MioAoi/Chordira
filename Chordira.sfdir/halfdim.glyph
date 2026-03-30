@@ -1,6 +1,7 @@
 StartChar: halfdim
 Encoding: 158 63390 131
 Width: 619
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -36,5 +37,6 @@ SplineSet
  287 110 287 110 310 110 c 0,38,31
  467 110 467 110 467 331 c 0,32,33
 EndSplineSet
+Validated: 1
 Ligature2: "chord spec-1letter" O
 EndChar

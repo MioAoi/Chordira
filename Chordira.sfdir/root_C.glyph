@@ -1,6 +1,7 @@
 StartChar: rootC
 Encoding: 130 63362 97
 Width: 600
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -26,5 +27,6 @@ SplineSet
  273 710 273 710 395 710 c 0,26,0
  526 710 526 710 600 628 c 1,1,-1
 EndSplineSet
+Validated: 1
 Ligature2: "root letter-1" C
 EndChar

@@ -1,6 +1,7 @@
 StartChar: M_1
 Encoding: 138 63370 118
 Width: 778
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -22,5 +23,6 @@ SplineSet
  659 689 l 1,16,-1
  716 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "chord spec-1letter" M
 EndChar

@@ -1,6 +1,7 @@
 StartChar: j
 Encoding: 106 106 74
 Width: 600
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -26,4 +27,5 @@ SplineSet
  445 527 l 1,23,-1
  445 84 l 2,12,13
 EndSplineSet
+Validated: 1
 EndChar

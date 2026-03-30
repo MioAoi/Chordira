@@ -1,6 +1,7 @@
 StartChar: r3
 Encoding: 187 63419 165
 Width: 720
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -48,5 +49,6 @@ SplineSet
  45 531 l 5,47,-1
  196 531 l 5,44,-1
 EndSplineSet
+Validated: 1
 Ligature2: "roman root-1" r three
 EndChar

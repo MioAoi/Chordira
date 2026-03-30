@@ -1,6 +1,7 @@
 StartChar: braceleft
 Encoding: 123 123 91
 Width: 600
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -35,4 +36,5 @@ SplineSet
  361 836 361 836 451 836 c 1,41,-1
  451 769 l 1,0,1
 EndSplineSet
+Validated: 33
 EndChar

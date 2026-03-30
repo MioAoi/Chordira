@@ -1,6 +1,7 @@
 StartChar: numbersign
 Encoding: 35 35 3
 Width: 600
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -40,4 +41,5 @@ SplineSet
  212 234 l 1,31,-1
  357 234 l 1,28,-1
 EndSplineSet
+Validated: 1
 EndChar

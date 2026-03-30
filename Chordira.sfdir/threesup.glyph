@@ -39,5 +39,6 @@ SplineSet
  167 748 167 748 223 748 c 0,42,0
  285 748 285 748 330 725 c 128,-1,1
 EndSplineSet
+Validated: 1
 Ligature2: "chord spec-1letter" three
 EndChar

@@ -1,6 +1,7 @@
 StartChar: Delta
 Encoding: 136 63368 116
 Width: 583
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -15,6 +16,7 @@ SplineSet
  290 609 l 5,6,-1
  125 78 l 5,4,-1
 EndSplineSet
+Validated: 1
 Kerns2: 113 -64 "'kern' Horizontal Kerning in Latin lookup 0-1"
 Ligature2: "chord spec-1letter" asciicircum
 EndChar

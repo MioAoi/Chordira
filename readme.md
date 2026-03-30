@@ -1,6 +1,6 @@
 # Chordira
 
-Font for displaying chords.  Based on Fira.
+Font for displaying chords.  Based on Fira and Leland.
 
 ## License
 

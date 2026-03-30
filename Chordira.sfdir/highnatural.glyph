@@ -1,6 +1,7 @@
 StartChar: highnatural
 Encoding: 171 63403 150
 Width: 259
+VWidth: 1000
 Flags: W
 HStem: -103 888<0 259 0 209>
 VStem: 0 50<214 425 550 785> 209 50<-103 134 134 134 259 469 469 469>
@@ -28,4 +29,5 @@ SplineSet
  233 658 l 2,20,21
  242 658 242 658 249 653 c 0,4,5
 EndSplineSet
+Validated: 1
 EndChar

@@ -9,8 +9,8 @@ Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
-Ascent: 800
-Descent: 200
+Ascent: 816
+Descent: 208
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 1 "Back" 1
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1774335734
-ModificationTime: 1774533469
+ModificationTime: 1774886435
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 4 0 0 "roman root" { "roman root-1"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "chord spec" { "chord spec-3letters"  "chord spec-2letters"  "chord spec-1letter"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "root letter" { "root letter-1"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]

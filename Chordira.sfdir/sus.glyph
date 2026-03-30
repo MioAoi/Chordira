@@ -1,11 +1,13 @@
 StartChar: sus
 Encoding: 173 63405 153
 Width: 1265
+VWidth: 1000
 LayerCount: 2
 Fore
 Refer: 152 63468 N 1 0 0 1 872 0 2
 Refer: 136 63459 N 1 0 0 1 393 0 2
 Refer: 152 63468 N 1 0 0 1 0 0 2
+Validated: 1
 Ligature2: "chord spec-3letters" s u s
 Decomposition: "+9+z34/fs"
 EndChar

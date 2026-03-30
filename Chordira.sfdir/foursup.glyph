@@ -23,5 +23,6 @@ SplineSet
  496 285 l 1,14,-1
  496 214 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "chord spec-1letter" four
 EndChar

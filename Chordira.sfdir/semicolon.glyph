@@ -1,6 +1,7 @@
 StartChar: semicolon
 Encoding: 59 59 27
 Width: 600
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -26,4 +27,5 @@ SplineSet
  265 166 265 166 299 166 c 256,25,12
  333 166 333 166 356.5 142.5 c 128,-1,13
 EndSplineSet
+Validated: 1
 EndChar

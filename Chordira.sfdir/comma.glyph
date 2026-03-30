@@ -1,6 +1,7 @@
 StartChar: comma
 Encoding: 44 44 12
 Width: 600
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -17,4 +18,5 @@ SplineSet
  266 165 266 165 300 165 c 256,13,0
  334 165 334 165 357.5 141.5 c 128,-1,1
 EndSplineSet
+Validated: 1
 EndChar

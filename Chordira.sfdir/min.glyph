@@ -1,12 +1,14 @@
 StartChar: min
 Encoding: 139 63371 119
 Width: 1419
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
 Refer: 142 63465 N 1 0 0 1 937 0 2
 Refer: 140 63463 N 1 0 0 1 703 0 2
 Refer: 135 63458 N 1 0 0 1 0 0 2
+Validated: 1
 Ligature2: "chord spec-3letters" m i n
 LCarets2: 2 0 0
 Decomposition: "+9+L35/fp"

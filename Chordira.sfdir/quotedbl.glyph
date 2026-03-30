@@ -1,6 +1,7 @@
 StartChar: quotedbl
 Encoding: 34 34 2
 Width: 600
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -16,4 +17,5 @@ SplineSet
  347 479 l 1,7,-1
  331 739 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar

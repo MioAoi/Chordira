@@ -1,6 +1,7 @@
 StartChar: dollar
 Encoding: 36 36 4
 Width: 600
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -43,4 +44,5 @@ SplineSet
  401 291 401 291 346 314 c 1,45,-1
  346 65 l 1,40,41
 EndSplineSet
+Validated: 1
 EndChar

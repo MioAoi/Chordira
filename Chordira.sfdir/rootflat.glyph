@@ -1,6 +1,7 @@
 StartChar: rootflat
 Encoding: 167 63399 146
 Width: 304
+VWidth: 1000
 Flags: W
 HStem: 325 76<150.5 171.5>
 VStem: 8 55 206 97<197.5 252.5>
@@ -36,6 +37,7 @@ SplineSet
  58 359 l 1,36,37
  106 401 106 401 171 401 c 0,15,16
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution 1-1" highflat
 Ligature2: "chord spec-1letter" b
 EndChar

@@ -1,6 +1,7 @@
 StartChar: augment
 Encoding: 155 63387 129
 Width: 506
+VWidth: 1000
 Flags: W
 HStem: 0 66 644 66
 VStem: 1 66 645 66
@@ -21,5 +22,6 @@ SplineSet
  291 345 l 1,11,-1
  505 345 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "chord spec-1letter" plus
 EndChar

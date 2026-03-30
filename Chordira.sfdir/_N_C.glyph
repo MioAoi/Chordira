@@ -1,6 +1,7 @@
 StartChar: NC
 Encoding: 176 63408 158
 Width: 1243
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
@@ -41,5 +42,6 @@ SplineSet
  583 689 l 1,42,-1
  583 0 l 1,27,-1
 EndSplineSet
+Validated: 1
 Ligature2: "chord spec-2letters" N C
 EndChar

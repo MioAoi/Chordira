@@ -1,6 +1,7 @@
 StartChar: rootnatural
 Encoding: 168 63400 147
 Width: 259
+VWidth: 1000
 Flags: W
 HStem: -103 888<0 259 0 209>
 VStem: 0 50<214 425 550 785> 209 50<-103 134 134 134 259 469 469 469>
@@ -28,5 +29,6 @@ SplineSet
  233 600 l 2,20,21
  242 600 242 600 249 595 c 0,4,5
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution 1-1" highnatural
 EndChar

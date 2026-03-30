@@ -1,11 +1,13 @@
 StartChar: mi
 Encoding: 143 63375 123
 Width: 1021
+VWidth: 1000
 Flags: W
 LayerCount: 2
 Fore
 Refer: 139 63462 N 1 0 0 1 769 0 2
 Refer: 134 63457 N 1 0 0 1 0 0 2
+Validated: 1
 Ligature2: "chord spec-2letters" m i
 Decomposition: "+9+H35gAA"
 EndChar
