@@ -22,7 +22,12 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1774335734
-ModificationTime: 1779437248
+ModificationTime: 1783349099
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +41,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 4 0 0 "roman root" { "roman root-1"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "chord spec" { "chord spec-3letters"  "chord spec-2letters"  "chord spec-1letter"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "root letter" { "root letter-1"  } ['rlig' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -47,10 +53,11 @@ DEI: 91125
 ChainSub2: coverage "accidentals before digits-1" 0 0 0 1
  1 0 1
   Coverage: 36 rootflat rootnatural rootsharp minus
-  FCoverage: 79 zerosup onesup twosup threesup foursup fivesup sixsup sevensup eightsup ninesup
+  FCoverage: 70 zerosup onesup twosup threesup foursup fivesup sixsup eightsup ninesup
  1
   SeqLookup: 0 "single substitution high accidentals"
 EndFPST
+LangName: 1033
 Encoding: x-user-defined
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -60,4 +67,5 @@ FitToEm: 1
 WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 614400 307200 204800 539648 1048576 204800 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 EndSplineFont
